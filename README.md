@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Jackie Chan, a software engineer from China. I'm interested in programming, hiking and mtb. I'm currently working on [**Weibo**](https://weibo.com) as a backend engineer.
+I'm Jackie Chan, a software engineer from China. I'm interested in programming, hiking and mtb. I'm currently working on [**Weibo**](https://weibo.com) as a backend engineer. My blog is [**here**](https://c.jie.sh).
 
 [![Sina Weibo](https://img.shields.io/badge/Weibo-Follow-red?style=flat-square&logo=sina-weibo)](https://weibo.com/u/1763952531) [![bilibili](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D223979633&query=%24.data.follower&style=flat&label=bilibili)](https://space.bilibili.com/223979633/dynamic)
 
